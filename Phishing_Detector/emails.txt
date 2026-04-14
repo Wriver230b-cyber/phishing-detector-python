@@ -1,7 +1,0 @@
-From: support@paypa1.com
-Subject: Urgent account verify
-Please login at http://scam-link.com to prevent suspension.
----
-From: notifications@github.com
-Subject: Successful Login
-Your account was accessed from a new device in Sacramento, CA.
